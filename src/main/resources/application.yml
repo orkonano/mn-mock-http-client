@@ -1,0 +1,8 @@
+---
+micronaut:
+    application:
+        name: mn104
+
+---
+redis:
+    uri: redis://localhost
